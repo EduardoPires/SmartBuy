@@ -46,7 +46,7 @@ O projeto consiste em:
 ```bash
 
 src/SmartBuy/
-├── SmartBuy.Web/               # Projeto MVC
+├── SmartBuy.Gestao/            # Projeto MVC
 ├── SmartBuy.Api/               # Projeto da API RESTful
 ├── SmartBuy.Infrastructure/    # Camada de Dados
 ├── SmartBuy.Core/              # Camada compartilhada / Entities / Interfaces
